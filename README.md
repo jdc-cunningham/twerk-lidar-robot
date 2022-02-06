@@ -1,3 +1,8 @@
+### About this branch
+This was the most current branch, main difference other than test code is the devlogs being included in the branch. The devlogs include a a lot of images as in bigger download.
+
+This branch in particular is a new approach to servo state and updated gaits before continuing with more navigation work.
+
 ### Twerk Lidar Robot
 A robot that utilizes onboard IMU and single-point lidar to navigate the world
 
